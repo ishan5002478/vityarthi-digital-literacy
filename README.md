@@ -58,7 +58,7 @@ The project is organised into five distinct tasks, each addressing a crucial asp
 ---
 
 ## Digital Literacy Awareness Quiz
-[Click here to test your digital awareness] https://docs.google.com/forms/d/e/1FAIpQLSdf94WCqupqCY7YERkDi0UMWFUaddkbwr03_1YJMXKjdNkZyA/viewform?usp=publish-editor
+[Click here to test your digital awareness] https://docs.google.com/forms/d/e/1FAIpQLSdu86Z97IWLWVUkYkHnpTOYXtysdaNz4_zFu20ahbO-hUk2Qg/viewform?usp=publish-editor
 ---
 
 - Solved beginner problem on HackerRank  
